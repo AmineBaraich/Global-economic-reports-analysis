@@ -1,7 +1,6 @@
 ### Phase 1 
 For the time being two models are used:
   - alpaca-native-7B-ggml
-    `code`
   - gpt4all-converted.bin from hugging face
     
 Utilizing a base the GPT4All model for semantic search, which can be repeated with other models as well but this one is most friendly for consumer grade PCs. The steps are as follows:
