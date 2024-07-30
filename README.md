@@ -5,7 +5,7 @@
 For the time being, two models are used:
 
 1. alpaca-native-7B-ggml, can be downloaded from [here](https://huggingface.co/models?search=alpaca-native-7B-ggml)
-2. gpt4all-converted.bin, [link]([https://huggingface.co/models?search=gpt4all-converted.bin](https://huggingface.co/mrgaang/aira/tree/main) from Hugging Face
+2. gpt4all-converted.bin, [link](https://huggingface.co/mrgaang/aira/tree/main) from Hugging Face
 
 Utilizing the base GPT4All model for semantic search, which can be repeated with other models as well but this one is most friendly for consumer-grade PCs. The steps are as follows:
 
