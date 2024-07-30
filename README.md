@@ -25,4 +25,4 @@ In this process, embeddings play a crucial role. Embeddings are numerical repres
 
 ## Phase 2
 
-Finetuning models to work better on medical reports.
+Finetuning models to work better on global economic reports..
